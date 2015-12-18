@@ -1,0 +1,61 @@
+NetChop 3.0 predictions using version C-term. Threshold 0.500000
+
+--------------------------------------
+ pos  AA  C      score      Ident
+--------------------------------------
+   1   A  .   0.358735 seq1 test1
+   2   S  .   0.024487 seq1 test1
+   3   T  .   0.034705 seq1 test1
+   4   P  .   0.033580 seq1 test1
+   5   G  .   0.033898 seq1 test1
+   6   H  .   0.026666 seq1 test1
+   7   T  .   0.024319 seq1 test1
+   8   I  .   0.245313 seq1 test1
+   9   I  S   0.946010 seq1 test1
+  10   Y  S   0.972664 seq1 test1
+  11   E  .   0.082951 seq1 test1
+  12   A  S   0.638058 seq1 test1
+  13   V  S   0.885750 seq1 test1
+  14   C  .   0.030303 seq1 test1
+  15   L  S   0.796395 seq1 test1
+  16   H  .   0.297480 seq1 test1
+  17   N  .   0.182349 seq1 test1
+  18   D  .   0.027633 seq1 test1
+  19   R  .   0.277115 seq1 test1
+  20   T  .   0.036270 seq1 test1
+  21   T  .   0.031955 seq1 test1
+  22   I  S   0.887865 seq1 test1
+  23   P  .   0.269709 seq1 test1
+--------------------------------------
+
+Number of cleavage sites 6. Number of amino acids 23. Protein name seq1 test1
+
+--------------------------------------
+--------------------------------------
+ pos  AA  C      score      Ident
+--------------------------------------
+   1   P  .   0.025975 seq2 test2
+   2   G  .   0.024099 seq2 test2
+   3   H  .   0.026500 seq2 test2
+   4   T  .   0.026857 seq2 test2
+   5   I  .   0.301968 seq2 test2
+   6   I  S   0.826313 seq2 test2
+   7   Y  S   0.963599 seq2 test2
+   8   E  .   0.079955 seq2 test2
+   9   A  S   0.650198 seq2 test2
+  10   V  S   0.892947 seq2 test2
+  11   C  .   0.033468 seq2 test2
+  12   L  S   0.730851 seq2 test2
+  13   H  .   0.389138 seq2 test2
+  14   N  .   0.323400 seq2 test2
+  15   D  .   0.059787 seq2 test2
+  16   R  S   0.534451 seq2 test2
+--------------------------------------
+
+Number of cleavage sites 6. Number of amino acids 16. Protein name seq2 test2
+
+--------------------------------------
+<font face="ARIAL,HELVETICA">
+<a href="/services/NetChop-3.1/output.html"
+target="output"><b>Explain</b></a> the output.  Go <a
+href="javascript:history.back()"><b>back</b></a>.</font>
