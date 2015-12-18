@@ -1,0 +1,8 @@
+A perl script that allows submission of peptides (in fasta format) to the NetChop server at http://www.cbs.dtu.dk/services/NetChop/
+
+Example workflow:
+    perl netchopSubmit.pl mysequences.fa >output
+    perl parseNetChop.pl output >results
+
+To test the functionality, run:
+    perl tests.sh
